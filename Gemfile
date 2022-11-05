@@ -72,3 +72,4 @@ group :test do
 end
 
 gem "webpacker", "4.0.7"
+gem "psych", "~> 3.1"
